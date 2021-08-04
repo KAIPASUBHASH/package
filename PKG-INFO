@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: package
+Version: 1.0
+Summary: package
+Home-page: UNKNOWN
+Author: subash
+Author-email: ibm.145126496@gmail.com
+License: MIT
+Description: This is a simple program of geometry to find area of triangle,rectangle and volume of cube and cuboid.
+        
+        Change Log
+        =============
+        
+        1.0 (04/08/2021)
+        ----------------
+        -First Release.
+Keywords: area,volume
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
